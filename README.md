@@ -115,4 +115,16 @@ in
 
 ```
 
+Sometimes Power BI creates unnecessary relationships between data, and this can cause the following error:
+![image](https://github.com/Zerg00s/sp-duplicate-files-report/assets/2797648/6b64a462-a93d-4d21-af54-bfba23634fc4)
+
+
+To fix this you need to go to model view and delete all existing relationships 
+
+![image](https://github.com/Zerg00s/sp-duplicate-files-report/assets/2797648/254dcd95-8137-4379-b1ff-5598399f7684)
+
+![image](https://github.com/Zerg00s/sp-duplicate-files-report/assets/2797648/b120d0db-0b26-4100-9331-1b9e97b4d401)
+
+
+
 Happy reporting!
